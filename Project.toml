@@ -1,0 +1,10 @@
+name = "Xorg_recordproto_jll"
+uuid = "a7b44dc7-5846-51fe-a1cd-6b242f0ec0a2"
+version = "1.14.2+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
